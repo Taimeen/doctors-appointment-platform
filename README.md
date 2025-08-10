@@ -1,5 +1,4 @@
-HEAD
-=======
+
 Doctors Appointment Platform
 
 A user-friendly web application designed to streamline the process of booking medical appointments. This platform allows patients to easily schedule appointments with their preferred doctors, enhancing the efficiency of healthcare services.
